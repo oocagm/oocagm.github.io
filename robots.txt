@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oocagm.github.io/Nya/sitemap.Nya.gz
